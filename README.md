@@ -1,5 +1,15 @@
 #  Typescript & React
 
+LESSON1 - PROPS AND STATE TYPES
+LESSON2 - LIFECYCLE METHODS + EVENTS TYPES
+LESSON3 - FORM EVENTS TYPES
+LESSON4 - PORTAL TYPES
+LESSON5 - CONTEXT TYPES for class and func components
+LESSON6 - REACT HOOKS TYPES
+LESSON7 - REACT HOC TYPES
+LESSON8 - REACT ROUTER TYPES + typing FETCH data and ASYNC functions (files: indexx.tsx + post.tsx + posts.tsx)
+LESSON9 - REDUX types
+
 ### Описание курса:
 В данном видеокурсе мы с вами рассмотрим связку библиотеки React и синтаксиса TypeScript. Из библиотеки мы разберём типизацию функциональных и классовых компонентов, событий и элементов, методов жизненного цикла, контекста и портала и конечно же хуки. А в дополнение рассмотрим типизацию React-роутера и Redux.
 
